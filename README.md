@@ -1,5 +1,5 @@
 # ITFactory
-
+версия python 3.6+
 1) клонирование проекта
 2) создание файла .env на уровне с директорией core по примеру .env.example
 3) запуск проекта в докере командой sudo docker-compose up --build
